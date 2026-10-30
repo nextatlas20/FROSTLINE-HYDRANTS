@@ -1,0 +1,7 @@
+hydrant_id	zone	route_order	min_pressure_kpa
+H-01	north	20	450
+H-02	north	10	500
+H-03	south	15	400
+H-04	east	30	550
+H-05	east	5	450
+H-06	west	8	500
