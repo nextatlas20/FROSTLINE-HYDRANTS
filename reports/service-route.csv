@@ -1,0 +1,4 @@
+stop,zone,route_order,hydrant_id,action,visit_id
+1,east,5,H-05,CLEAR_DRAIN,V106
+2,east,30,H-04,RESTORE_PRESSURE,V104
+3,south,15,H-03,RESTORE_PRESSURE,V111
